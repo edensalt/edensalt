@@ -4,7 +4,7 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 ## About me
 
-👩‍💻 I'm Eden, software engineer in progress. I began my programming journey in February 2023, pivoting my career in order to build beautiful, intuitive products for people to use to make their lives a little easier!
+👩‍💻 I'm Eden, software engineer in progress. I began my programming journey in February 2023, pivoting my career in order to build beautiful, intuitive products.
 
 ## My stack
 
