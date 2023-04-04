@@ -1,6 +1,6 @@
 ### Welcome! Thanks for stopping by 👋
 
-Below, you'll find a bit of info about me. Feel free to scroll further and check out my public repos, most of which are demonstrates of the skills I've built through <a href="https://www.theodinproject.com/">the Odin Project</a>.
+Below, you'll find a bit of info about me. Feel free to scroll further and check out my public repos, most of which are demonstrations of the skills I've built through <a href="https://www.theodinproject.com/">the Odin Project</a>.
 
 ## About me
 
@@ -27,18 +27,3 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 ♟️ I've recently gotten into chess (I hear this is a thing programmers do), and I enjoy taking coding breaks on chess.com.
 
 🎸 I play guitar and am currently learning the bass, which isn't too challening, as it's essentially 2/3 of the instrument I already know!
-
-<!--
-**edensalt/edensalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
