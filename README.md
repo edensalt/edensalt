@@ -20,7 +20,7 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 ## My backstory
 
-📈 Before my pivot into programming, I worked for early-stage health-tech start-ups, focusing on marketplace operations and account management. I'm naturally drawn to the energy of start-up environments. My work focused on optimization and scaling, where I built my skillset of process improvement and project management.
+📈 Before my pivot into programming, I worked for early-stage health-tech start-ups, focusing on marketplace operations and account management. I'm naturally drawn to the energy of start-up environments. My work focused on optimization and scaling, where I built my skillset of process improvement and project management. In this work, I was exposed to Google Apps Scripts, HTML and CSS. These experiences sparked my transition into programming!
 
 🌊 I am a graduate of Tulane University (roll wave!) My degree in public health drives my passion for helping patients in my work, and one of my core values is supporting others in achieving good health.
 
