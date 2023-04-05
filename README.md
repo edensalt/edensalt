@@ -12,7 +12,11 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 ## How I'm learning
 
-📓 I'm currently completing The Odin Project's <a href="https://www.theodinproject.com/paths/full-stack-javascript">Full Stack Javascript course</a>. I've already completed their <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations course</a>.
+📓 I'm currently completing The Odin Project's <a href="https://www.theodinproject.com/paths/full-stack-javascript">Full Stack Javascript course</a>.
+
+✔️ Completed courses:
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css">Intermediate HTML & CSS</a>
+- <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations</a>
 
 ## My backstory
 
