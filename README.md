@@ -8,7 +8,13 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 ## My stack
 
-📚 I am proficient in HTML, CSS and Javascript. I'm also very familiar with Tailwind and Vite. I'm looking forward to growing this list as I continue my learning!
+📚 I am proficient in:
+- JavaScript
+- Tailwind
+- HTML/CSS
+- Vite + Webpack
+
+I'm looking forward to growing this list as I continue my learning!
 
 ## How I'm learning
 
