@@ -8,7 +8,7 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 ## My stack
 
-📚 I am proficient in:
+📚 I am proficient in:`
 - JavaScript
 - Tailwind + Sass
 - HTML/CSS
@@ -26,17 +26,17 @@ I'm looking forward to growing this list as I continue my learning!
 
 ## My favorite projects
 
-You can check out all of my projects <a href="https://github.com/edensalt?tab=repositories">here</a>. Check out some of my favorites below!
+You can check out all of my projects <a href="https://github.com/edensalt?tab=repositories">here</a>. Preview some of my favorites below!
 
 ### Weather app
 <a href="https://github.com/edensalt/weather-app">Repo</a> || <a href="https://edensalt.github.io/weather-app/">Live preview</a>
 
-<img src="./images/basic-function.gif" alt="gif of my weather app">
+<a href="https://github.com/edensalt/weather-app"><img src="./images/basic-function.gif" alt="gif of my weather app"></a>
 
 ### To-do list
 <a href="https://github.com/edensalt/todo-list">Repo</a> || <a href="https://edensalt.github.io/todo-list/">Live preview</a>
 
-<img src="./images/edit-tasks.gif" alt="gif of my to-do list">
+<a href="https://github.com/edensalt/todo-list"><img src="./images/edit-tasks.gif" alt="gif of my to-do list"></a>
 
 ## My backstory
 
