@@ -24,6 +24,20 @@ I'm looking forward to growing this list as I continue my learning!
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css">Intermediate HTML & CSS</a>
 - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations</a>
 
+## My favorite projects
+
+You can check out all of my projects <a href="https://github.com/edensalt?tab=repositories">here</a>. Check out some of my favorites below!
+
+### Weather app
+<a href="https://github.com/edensalt/weather-app">Repo</a> || <a href="https://edensalt.github.io/weather-app/">Live preview</a>
+
+<img src="./images/basic-function.gif" alt="gif of my weather app">
+
+### To-do list
+<a href="https://github.com/edensalt/todo-list">Repo</a> || <a href="https://edensalt.github.io/todo-list/">Live preview</a>
+
+<img src="./images/edit-tasks.gif" alt="gif of my to-do list">
+
 ## My backstory
 
 📈 Before my pivot into programming, I worked for early-stage health-tech start-ups, focusing on marketplace operations and account management. I'm naturally drawn to the energy of start-up environments. My work focused on optimization and scaling, where I built my skillset of process improvement and project management. In this work, I was exposed to Google Apps Scripts, HTML and CSS. These experiences sparked my transition into programming!
