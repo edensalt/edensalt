@@ -8,7 +8,8 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 ## My stack
 
-📚 I am proficient in:`
+📚 I am proficient in:
+- React JS
 - JavaScript
 - Tailwind + Sass
 - HTML/CSS
