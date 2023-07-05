@@ -29,15 +29,15 @@ I'm looking forward to growing this list as I continue my learning!
 
 You can check out all of my projects <a href="https://github.com/edensalt?tab=repositories">here</a>. Preview some of my favorites below!
 
+### CV generator
+<a href="https://github.com/edensalt/cv-application">Repo</a> || <a href="https://edensalt.github.io/cv-application/">Live preview</a>
+
+<a href="https://github.com/edensalt/cv-application"><img src="./images/cv-app.gif" alt="gif of my cv generator"></a>
+
 ### Weather app
 <a href="https://github.com/edensalt/weather-app">Repo</a> || <a href="https://edensalt.github.io/weather-app/">Live preview</a>
 
 <a href="https://github.com/edensalt/weather-app"><img src="./images/basic-function.gif" alt="gif of my weather app"></a>
-
-### To-do list
-<a href="https://github.com/edensalt/todo-list">Repo</a> || <a href="https://edensalt.github.io/todo-list/">Live preview</a>
-
-<a href="https://github.com/edensalt/todo-list"><img src="./images/edit-tasks.gif" alt="gif of my to-do list"></a>
 
 ## My backstory
 
