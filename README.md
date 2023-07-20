@@ -10,6 +10,7 @@ Below, you'll find a bit of info about me. Feel free to scroll further and check
 
 📚 I am proficient in:
 - React JS
+- TypeScript
 - JavaScript
 - Tailwind + Sass
 - HTML/CSS
