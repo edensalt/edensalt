@@ -20,7 +20,7 @@ I'm looking forward to growing this list as I continue my learning!
 
 ## How I'm learning
 
-📓 I'm currently completing The Odin Project's <a href="https://www.theodinproject.com/paths/full-stack-javascript">Full Stack Javascript course</a>.
+📓 I'm currently completing Academind's <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React course</a> and The Odin Project's <a href="https://www.theodinproject.com/paths/full-stack-javascript">Full Stack Javascript course</a>.
 
 ✔️ Completed courses:
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css">Intermediate HTML & CSS</a>
