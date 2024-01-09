@@ -1,30 +1,27 @@
 ### Welcome! Thanks for stopping by 👋
 
-Below, you'll find a bit of info about me. Feel free to scroll further and check out my public repos, most of which are demonstrations of the skills I've built through <a href="https://www.theodinproject.com/">the Odin Project</a>.
+Below, you'll find a bit of info about me and some of my favorite projects.
 
 ## About me
 
-👩‍💻 I'm Eden, software engineer in progress. I began my programming journey in February 2023, pivoting my career in order to build beautiful, intuitive products.
+👩‍💻 I'm Eden, software engineer. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
 
 ## My stack
 
 📚 I am proficient in:
-- React JS
+- React
+- Next.js
+- NestJS
 - TypeScript
-- JavaScript
+- Node.js
+- RESTful APIs
+- SQL + NoSQL
 - Tailwind + Sass
-- HTML/CSS
+- Terraform
 - Vite + Webpack
-
-I'm looking forward to growing this list as I continue my learning!
-
-## How I'm learning
-
-📓 I'm currently completing Academind's <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React course</a> and The Odin Project's <a href="https://www.theodinproject.com/paths/full-stack-javascript">Full Stack Javascript course</a>.
-
-✔️ Completed courses:
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css">Intermediate HTML & CSS</a>
-- <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations</a>
+- AWS
+- Supabase
+- OpenAI
 
 ## My favorite projects
 
