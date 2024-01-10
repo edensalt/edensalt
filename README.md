@@ -1,31 +1,31 @@
 ### Welcome! Thanks for stopping by 👋
 
-Below, you'll find a bit of info about me and some of my favorite projects.
+👩‍💻 I'm Eden, software engineer and NYT crossword enthusiast. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
 
 ## About me
 
-👩‍💻 I'm Eden, software engineer. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
+My focus is frontend development, though my work touches full-stack engineering. Check out my tech stack - maybe you got BINGO for your next project! And if not, I'm a very fast learner ⚡
 
 ## My stack
 
-📚 I am proficient in:
-- React
-- Next.js
-- NestJS
-- TypeScript
-- Node.js
-- RESTful APIs
-- SQL + NoSQL
-- Tailwind + Sass
-- Terraform
-- Vite + Webpack
-- AWS
-- Supabase
-- OpenAI
+- Front end technologies: Javascript, Typescript, HTML, CSS
+- Front end frameworks & libraries: React, Next.js, Tailwind, SASS
+- Back end technologies: Javascript, Typescript, Terraform
+- Back end frameworks: NestJS, Node.js, RESTful APIs
+- Database: PostgreSQL, DynamoDB
+- Version control: Git
+- Build Tools: Vite, Webpack
+- Development IDEs: Visual Studio Code
+- Web services: AWS, Supabase, Vercel, OpenAI
 
 ## My favorite projects
 
 You can check out all of my projects <a href="https://github.com/edensalt?tab=repositories">here</a>. Preview some of my favorites below!
+
+### Thanks Aunt Jill
+<a href="https://github.com/edensalt/thanks-aunt-jill">Repo</a> || <a href="https://www.thanksauntjill.com/">Live preview</a>
+
+<a href="https://github.com/edensalt/thanks-aunt-jill"><img src="./images/thanks-aunt-jill-create.gif" alt="gif of my application thanks aunt jill"></a>
 
 ### CV generator
 <a href="https://github.com/edensalt/cv-application">Repo</a> || <a href="https://edensalt.github.io/cv-application/">Live preview</a>
@@ -39,14 +39,14 @@ You can check out all of my projects <a href="https://github.com/edensalt?tab=re
 
 ## My backstory
 
-📈 Before my pivot into programming, I worked for early-stage health-tech start-ups, focusing on marketplace operations and account management. I'm naturally drawn to the energy of start-up environments. My work focused on optimization and scaling, where I built my skillset of process improvement and project management. In this work, I was exposed to Google Apps Scripts, HTML and CSS. These experiences sparked my transition into programming!
+📈 Before my pivot into programming, I worked for early-stage health-tech start-ups, focusing on marketplace operations and account management. I'm naturally drawn to the energy of start-up environments and the mission of healthcare companies.
 
 🌊 I am a graduate of Tulane University (roll wave!) My degree in public health drives my passion for helping patients in my work, and one of my core values is supporting others in achieving good health.
 
 ## Fun facts
 
-📖 I am an avid reader, and GoodReads is my favorite social media platform!
+📖 I am an avid reader and especially drawn to sci-fi.
 
-♟️ I've recently gotten into chess (I hear this is a thing programmers do), and I enjoy taking coding breaks on chess.com.
+🧗‍♀️ I'm a rock climber and enjoy spending my weekends out at the crag.
 
-🎸 I play guitar and am currently learning the bass, which isn't too challening, as it's essentially 2/3 of the instrument I already know!
+☕️ Like most programmers, I have a coffee addiction. My mornings always start with a pour-over.
