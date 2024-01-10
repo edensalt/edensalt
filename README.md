@@ -1,6 +1,6 @@
 ### Welcome! Thanks for stopping by 👋
 
-👩‍💻 I'm Eden, software engineer. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
+👩‍💻 I'm Eden, a software engineer. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
 
 ## About me
 
