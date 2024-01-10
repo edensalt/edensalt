@@ -1,6 +1,6 @@
 ### Welcome! Thanks for stopping by 👋
 
-👩‍💻 I'm Eden, software engineer and NYT crossword enthusiast. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
+👩‍💻 I'm Eden, software engineer. I am currently a consultant at Big Lift Software, building intuitive, beautiful products.
 
 ## About me
 
@@ -45,7 +45,9 @@ You can check out all of my projects <a href="https://github.com/edensalt?tab=re
 
 ## Fun facts
 
-📖 I am an avid reader and especially drawn to sci-fi.
+📖 I'm an avid reader and especially drawn to sci-fi.
+
+✏️ I'm a NYT crossword enthusiast and daily Worlder.
 
 🧗‍♀️ I'm a rock climber and enjoy spending my weekends out at the crag.
 
