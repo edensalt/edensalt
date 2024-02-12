@@ -8,9 +8,9 @@ My focus is frontend development, though my work touches full-stack engineering.
 
 ## My stack
 
-- Front end technologies: Javascript, Typescript, HTML, CSS
+- Front end technologies: Typescript, Javascript, HTML, CSS
 - Front end frameworks & libraries: React, Next.js, Tailwind, SASS
-- Back end technologies: Javascript, Typescript, Terraform
+- Back end technologies: Typescript, Javascript, Terraform
 - Back end frameworks: NestJS, Node.js, RESTful APIs
 - Database: PostgreSQL, DynamoDB
 - Version control: Git
